@@ -1,7 +1,7 @@
 This is the assignment at the end of the HTML chapter for The Odin Project.
 
-I didn't want to create a new repo so I will just keep it in this repo as a separate directory! 
+all proper commits can be seen on the main Odin Fumndementals repo created for easier grouping of files and where I write some of my notes in other HTML files as I follow along.
 
-I'm writing most of my notes in the html pages we are making and also in Obsidian as I have previous knowledge of HTML and CSS but still find new things to learn.
+I have enough knowledge of HTML and CSS already but I will wait till I complete everything before coming back and remaking these pages!
 
 This will be the recipes webpage.
